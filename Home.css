@@ -1507,6 +1507,7 @@
   grid-template-rows: auto;
   margin-top: 96px;
   margin-bottom: 0;
+  height: auto;
 }
 
 .u-section-8 .u-list-item-1 {
@@ -1629,7 +1630,6 @@
   .u-section-8 .u-list-1 {
     min-height: 387px;
     margin-top: 52px;
-    height: auto;
   }
 
   .u-section-8 .u-text-10 {
